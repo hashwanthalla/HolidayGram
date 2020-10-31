@@ -1,7 +1,7 @@
 .top{
 background-image:url('https://cdn.cnn.com/cnnnext/dam/assets/150306152052-beautiful-japan-shiratani-unsuikyo-gorge-full-169.jpg');
-width:100%;
-height: 450px;
+width:120%;
+height: 70%;
 }
 .mountain{
   height: 300px;
@@ -56,7 +56,7 @@ h3{
 }
 form{
   margin-top: 50px;
-  margin-left:120px;
+  margin-left:200px;
    font-family: Sacramento;
    font-size: 40px;
    color:#758E8A;
