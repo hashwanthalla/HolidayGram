@@ -1,0 +1,65 @@
+.top{
+background-image:url('https://cdn.cnn.com/cnnnext/dam/assets/150306152052-beautiful-japan-shiratani-unsuikyo-gorge-full-169.jpg');
+height: 450px;
+}
+.mountain{
+  height: 300px;
+  width: 300px;
+  padding-top: 70px;
+  padding-left: 70px;
+}
+.pro{
+  text-decoration:underline;
+  font-family:Grenze Gotisch;
+  font-size: 40px;
+}
+.middle{
+  background-color:#D0ECE7;
+}
+.bottom{
+  background-color:#D0ECE7;
+}
+.top-width{
+  padding-left: 300px;
+  height: 100px;
+  width:130px;
+padding-bottom: 10px;
+}
+.bottom-width{
+  position: relative;
+  padding-bottom: 250px;
+  padding-right:50px;
+}
+body{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin:0;
+  text-align: center;
+
+}
+
+h1{
+  margin-top:0;
+  padding-top: 100px;
+  font-family:  Indie Flower;
+  font-size: 50px;
+  color:#E5E7E9;
+  margin-bottom: 0px;
+}
+h3{
+  font-family: Indie Flower;
+  margin-top: 50px;
+  font-size: 30px;
+  padding-left: 10px;
+  padding-right: 1150px;
+  color:#9A7A98;
+}
+form{
+  margin-top: 50px;
+  margin-left:120px;
+   font-family: Sacramento;
+   font-size: 40px;
+   color:#758E8A;
+}
+span{
+   font-family: Indie Flower;
+}
