@@ -2,6 +2,7 @@
 background-image:url('https://cdn.cnn.com/cnnnext/dam/assets/150306152052-beautiful-japan-shiratani-unsuikyo-gorge-full-169.jpg');
 width:120%;
 height: 70%;
+background-repeat: no-repeat;
 }
 .mountain{
   height: 300px;
